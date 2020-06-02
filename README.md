@@ -50,4 +50,8 @@ Enter a Number for a specific output:
 
 (4) : To exit the Lazy-Termux.
 
+# Support Me By Contributing :-
+
+github : @Pralhad-Nasane
+
 # One Personal Request 🙏Please Don't Copy My Code...! 😍
