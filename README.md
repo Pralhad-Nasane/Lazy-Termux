@@ -3,9 +3,9 @@
   </p>
  <b>
  
-<a href="https://ibb.co/tLC3WnV"><img src="https://i.ibb.co/NTY7Hfc/20200522-103130.jpg" align="center" width="100%" height="72%" alt="20200522-103130" border="0"></a>
+<a href="https://ibb.co/tLC3WnV"><img src="https://i.ibb.co/NTY7Hfc/20200522-103130.jpg" align="center" width="75%" height="40%" alt="20200522-103130" border="0"></a>
 <b>
-<head><h2><align="center" >𝙃𝙚𝙡𝙡𝙤 𝙂𝙪𝙮𝙨 𝙏𝙝𝙞𝙨 𝙄𝙨 𝙈𝙮 𝙁𝙞𝙧𝙨𝙩 𝙨𝙘𝙧𝙞𝙥𝙩 𝙄𝙛 𝙔𝙤𝙪 𝙡𝙞𝙠𝙚 𝙄𝙩 𝙋𝙡𝙯 𝙂𝙞𝙫𝙚 𝙈𝙚 𝘼 𝙎𝙩𝙖𝙧😉</h2></head>
+<head><h3><align="center" >𝙃𝙚𝙡𝙡𝙤 𝙂𝙪𝙮𝙨 𝙏𝙝𝙞𝙨 𝙄𝙨 𝙈𝙮 𝙁𝙞𝙧𝙨𝙩 𝙨𝙘𝙧𝙞𝙥𝙩 𝙄𝙛 𝙔𝙤𝙪 𝙡𝙞𝙠𝙚 𝙄𝙩 𝙋𝙡𝙯 𝙂𝙞𝙫𝙚 𝙈𝙚 𝘼 𝙎𝙩𝙖𝙧😉</h3></head>
 
 [![GitHub stars](https://img.shields.io/github/stars/Pralhad-Nasane/Lazy-Termux.svg?style=social&label=Star)](https://github.com/Pralhad-Nasane/Lazy-Termux/star) 
 [![GitHub forks](https://img.shields.io/github/forks/Pralhad-Nasane/Lazy-Termux.svg?style=social&label=Fork)](https://github.com/Pralhad-Nasane/Lazy-Termux/fork) [![GitHub watchers](https://img.shields.io/github/watchers/Pralhad-Nasane/Lazy-Termux.svg?style=social&label=Watch)](https://github.com/Pralhad-Nasane/Lazy-Termux) [![GitHub followers](https://img.shields.io/github/followers/Pralhad-Nasane.svg?style=social&label=Follow)](https://github.com/Pralhad-Nasane/Lazy-Termux)  
