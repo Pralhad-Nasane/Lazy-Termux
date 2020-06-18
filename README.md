@@ -1,7 +1,7 @@
 <head><h5><align="center" >𝙃𝙚𝙡𝙡𝙤 𝙂𝙪𝙮𝙨 𝙏𝙝𝙞𝙨 𝙄𝙨 𝙈𝙮 𝙁𝙞𝙧𝙨𝙩 𝙨𝙘𝙧𝙞𝙥𝙩 𝙄𝙛 𝙔𝙤𝙪 𝙡𝙞𝙠𝙚 𝙄𝙩 𝙋𝙡𝙯 𝙂𝙞𝙫𝙚 𝙈𝙚 𝘼 𝙎𝙩𝙖𝙧😉</h5></head>
 <b>
 </b>
-<a href="https://ibb.co/tLC3WnV"><img src="https://i.ibb.co/NTY7Hfc/20200522-103130.jpg" align="center" width="100%" height="75%" alt="20200522-103130" border="0"></a>
+<a href="https://ibb.co/tLC3WnV"><img src="https://i.ibb.co/NTY7Hfc/20200522-103130.jpg" align="center" width="90%" height="65%" alt="20200522-103130" border="0"></a>
 <b>
 </b>
 
