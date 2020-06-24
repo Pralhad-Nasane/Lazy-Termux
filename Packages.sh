@@ -1,4 +1,6 @@
 clear
+echo " "
+echo " "
 #---colors brother---
 red='\033[1;91m'
 green='\033[1;92m'
@@ -8,9 +10,10 @@ purple='\033[1;95m'
 cyan='\033[1;96m'
 white='\033[1;97m'
 #—--------------------
+clear
 echo ""
 echo ""
-echo "$yellow wooh Your Packages Are Going To Install Now....."
+echo "$yellow Wooh Your Packages Are Going To Install Now....."
 echo ""
 echo ""
 echo "$green ........Please Wait......."
