@@ -61,10 +61,10 @@ echo " "
 read hulke
 cd $HOME/Lazy-Termux
 echo " "
-echo -e "$yellow -----------To terminate the process click$red 'Y'$yellow or to continue click on$green ENTER$rset" 
+echo -e "$yellow To terminate the process click$red 'Y'$yellow or to continue click on$green ENTER$rset" 
 read choice
 if [ $choice = 'Y' ] ; then
-echo -e "$yellow [==================Are you sure? Press$green ENTER$red to exit===============]$rset"
+echo -e "$yellow [==Are you sure? Press$green ENTER$red to exit==]$rset"
 read hulkee
 cd $HOME/Lazy-Termux
 bash LazyTermux.sh
