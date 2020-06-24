@@ -33,8 +33,7 @@ echo -e "$yellow                $grn ˜”*°•.˜”*°• Pralhad •°*”˜
 echo -e "$red            ⫸$green Follow Me For More Interesting Scripts $red ⫷$rset"
 echo 
 # Functions
-echo -e "$red                       [Enjoy With Me...]$rset"
-echo " "
+echo -e "$cyan                       [Enjoy With Me...]$rset"
 echo " "
 echo -e "$green             ＞＞＞＞＞＞＞＞$yellow [Options]$green ＜＜＜＜＜＜＜＜$rset"
 echo " "
@@ -134,11 +133,7 @@ bash LazyTermux.sh
 else
 bash Deletescript.sh
 echo " "
-echo " "
-echo -e "$green ＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞$yellow [EXIT]$green ＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜$rset"
-echo " "
-echo -e "$cyan  click$green ENTER$cyan to go back into Lazy-Termux Tool menu$rset"
-echo " "
+echo " ";;
 read punch
 fi
 cd $HOME/Lazy-Termux
