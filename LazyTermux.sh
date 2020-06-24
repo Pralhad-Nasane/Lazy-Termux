@@ -19,7 +19,7 @@ white='\033[1;97m'
 echo ""
 echo ""
 echo ""
-echo -e "$red
+echo -e "$purple
    __     __   ____  _  _     ____  ____  ____  _  _  _  _  _  _ 
   (  )   / _\ (__  )( \/ )___(_  _)(  __)(  _ \( \/ )/ )( \( \/ )
   / (_/\/    \ / _/  )  /(___) )(   ) _)  )   // \/ \) \/ ( )  ( 
@@ -28,7 +28,7 @@ echo -e "$red
 
 echo " "
 
-echo -e "$green                              ▶ Coded by ◀️ $rset"
+echo -e "$green                          ▶ Coded by ◀️ $rset"
 echo -e "$yellow                $grn ˜”*°•.˜”*°• Pralhad •°*”˜.•°*”˜ $rset"
 echo -e "$green            ⫸$ylo Follow Me For More Interesting Scripts$red ⫷$rset"
 echo 
