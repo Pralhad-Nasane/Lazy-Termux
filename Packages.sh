@@ -13,7 +13,7 @@ white='\033[1;97m'
 clear
 echo ""
 echo ""
-echo -e "$yellow Wooh Your Packages Are Going To Install Now....."
+echo -e"$yellow Wooh Your Packages Are Going To Install Now....."
 echo ""
 echo ""
 echo -e"$green ........Please Wait......."
