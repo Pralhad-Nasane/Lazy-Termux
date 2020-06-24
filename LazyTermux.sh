@@ -3,8 +3,8 @@ echo ""
 echo ""
 #Hello Guys,This is my first script which help you to install all basic packages on termux..
 # Tool Name :- Lazy-Termux
-# Author :- Pralhad-Nasane
-# Date :- 21 May 2020
+# Author    :- Pralhad-Nasane
+# Date      :- 21 May 2020
 clear
 # scripting starts
 #---colors brother---
