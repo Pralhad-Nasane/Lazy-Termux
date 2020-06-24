@@ -1,7 +1,16 @@
 clear
+#---colors brother---
+red='\033[1;91m'
+green='\033[1;92m'
+yellow='\033[1;93m'
+blue='\033[1;94m'
+purple='\033[1;95m'
+cyan='\033[1;96m'
+white='\033[1;97m'
+#—--------------------
 echo ""
 echo ""
-echo "$yellow wooh Your Packages Are Going To Imstall Now....."
+echo "$yellow wooh Your Packages Are Going To Install Now....."
 echo ""
 echo ""
 echo "$green ........Please Wait......."
@@ -130,6 +139,6 @@ echo ""
 echo "$yellow Now Enjoy Your Hacking Life.."
 echo ""
 
-echo "$yellow Follow Pralhad Nasane Github account for more tools."
+echo "$yellow Follow me on Github  for more tools."
 echo ""
 echo ""
