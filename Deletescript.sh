@@ -17,7 +17,7 @@ echo '
 ' | lolcat
 echo " "
 echo " "
-echo -e "$grn              Hello buddy dont forget to share your thoughts..$rset"
+echo -e "$grn Hello buddy dont forget to share your thoughts..$rset"
 sleep 2.0
 echo " "
 echo " "
@@ -27,7 +27,7 @@ ls
 clear
 echo " "
 echo " "
-echo -e "$grn          Thank you for $red using LazyTermux tool,$ylo have a nice day$rset"
+echo -e "$grn  Thank you for $red using LazyTermux tool,$ylo have a nice day$rset"
 sleep 3.0
 echo " "
 echo " "
