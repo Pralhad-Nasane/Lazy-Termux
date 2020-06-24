@@ -24,11 +24,11 @@ echo -e "$red
   (  )   / _\ (__  )( \/ )___(_  _)(  __)(  _ \( \/ )/ )( \( \/ )
   / (_/\/    \ / _/  )  /(___) )(   ) _)  )   // \/ \) \/ ( )  ( 
   \____/\_/\_/(____)(__/      (__) (____)(__\_)\_)(_/\____/(_/\_)
-                                       V 1.0$rset"
+                                       V 1.1$rset"
 
 echo " "
-
-echo -e "$yellow        ▶ Coded by$grn ˜”*°•.˜”*°• Pralhad Nasane •°*”˜.•°*”˜ $red ◀$rset"
+echo -e "$green                      ▶ Coded by ◀️
+echo -e "$yellow              $grn ˜”*°•.˜”*°• Pralhad •°*”˜.•°*”˜ $red ◀$rset"
 echo -e "$green            ⫸$ylo Follow Me For More Interesting Scripts$red ⫷$rset"
 echo 
 # Functions
