@@ -19,7 +19,7 @@ white='\033[1;97m'
 echo ""
 echo ""
 echo ""
-echo -e "$cyan
+echo -e "$blue
    __     __   ____  _  _     ____  ____  ____  _  _  _  _  _  _ 
   (  )   / _\ (__  )( \/ )___(_  _)(  __)(  _ \( \/ )/ )( \( \/ )
   / (_/\/    \ / _/  )  /(___) )(   ) _)  )   // \/ \) \/ ( )  ( 
@@ -36,7 +36,7 @@ echo
 echo -e "$red                       [Enjoy With Me...]$rset"
 echo " "
 echo " "
-echo -e "$grn             ＞＞＞＞＞＞＞＞$ylo [Options]$grn ＜＜＜＜＜＜＜＜$rset"
+echo -e "$grn             ＞＞＞＞＞＞＞＞$yellow [Options]$green ＜＜＜＜＜＜＜＜$rset"
 echo " "
 echo " "
 echo -e "$red                        ➡$yellow [1️⃣] Install Packages"
@@ -45,26 +45,26 @@ echo -e "$red                        ➡️$yellow [3️⃣] Delete Script"
 echo -e "$red                        ➡$yellow [4️⃣] Exit"
 echo " "
 echo " "
-echo -e "$grn               >>>>>>>>>>>$ylo [SELECT]$grn <<<<<<<<<<<<<$rset"
+echo -e "$green               >>>>>>>>>>>>>$yellow [SELECT]$green <<<<<<<<<<<<<$rset"
 echo " "
-echo -e "$cyan                   [[[$ylo Select any option$cyan]]]$rset"
+echo -e "$cyan                   [[[$yellow Select any option$cyan ]]]$rset"
 echo " "
 read n
 case "$n" in
 1)echo " "
 echo " "
 echo " "
-echo -e "$green You are going to$grn Install Packages..$red Now$rset"
+echo -e "$green You are going to$blue Install Packages..$red Now$rset"
 echo " "
 echo -e "$green Press$red ENTER$red to continue$rset"
 echo " "
 read hulke
 cd $HOME/Lazy-Termux
 echo " "
-echo -e "$ylo -----------To terminate the process click$red 'Y'$ylo or to continue click on$grn ENTER$rset" 
+echo -e "$yellow -----------To terminate the process click$red 'Y'$yellow or to continue click on$green ENTER$rset" 
 read choice
 if [ $choice = 'Y' ] ; then
-echo -e "$yellow [==================Are you sure? Press$grn ENTER$red to exit===============]$rset"
+echo -e "$yellow [==================Are you sure? Press$green ENTER$red to exit===============]$rset"
 read hulkee
 cd $HOME/Lazy-Termux
 bash LazyTermux.sh
@@ -72,9 +72,9 @@ else
 bash Packages.sh
 echo " "
 echo " "
-echo -e "$grn ＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜$rset"
+echo -e "$green ＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜$rset"
 echo " "
-echo -e "$white  click$grn ENTER$cyan to go back into Lazy-Termux menu$rset"
+echo -e "$white  click$green ENTER$cyan to go back into Lazy-Termux menu$rset"
 echo " "
 read punch
 fi
@@ -85,17 +85,17 @@ bash LazyTermux.sh ;;
 2)echo " "
 echo " "
 echo " "
-echo -e "$red  You are going to$grn Update$red Lazy-Termux Tool..$rset "
+echo -e "$red  You are going to$green Update$red Lazy-Termux Tool..$rset "
 echo " "
-echo -e "$grn         Press$ylo ENTER$grn to continue$rset"
+echo -e "$green         Press$yellow ENTER$green to continue$rset"
 echo " "
 read ns
 cd $HOME/Lazy-Termux
 echo " "
-echo -e "$ylo  To terminate the process click$red 'Y' $ylo or to continue click on$grn ENTER$rset"
+echo -e "$yellow  To terminate the process click$red 'Y' $yellow or to continue click on$green ENTER$rset"
 read choice
 if [ $choice = 'Y' ] ; then
-echo -e "$red      Are you sure? Press$grn ENTER$red to exit$rset"
+echo -e "$red      Are you sure? Press$green ENTER$red to exit$rset"
 read ns
 cd $HOME/Lazy-Termux
 ls
@@ -104,7 +104,7 @@ else
 bash updatescript.sh
 echo " "
 echo " "
-echo -e "$grn ＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜$rset"
+echo -e "$green ＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞$yellow [EXIT]$green ＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜$rset"
 echo " "
 echo -e "$cyan   click ENTER to go back into Lazy-Termux menu$rset"
 echo " "
@@ -117,17 +117,17 @@ bash LazyTermux.sh ;;
 3)echo " "
 echo " "
 echo " "
-echo -e "$red You are going to$grn Delete$red script$rset"
+echo -e "$red You are going to$green Delete$red script$rset"
 echo " "
-echo -e "$grn  Press$ylo ENTER$grn to continue$rset"
+echo -e "$green  Press$yellow ENTER$green to continue$rset"
 echo " "
 read gidor
 cd $HOME/Lazy-Termux
 echo " "
-echo -e "$ylo  To terminate the process click$red 'Y' $ylo or to continue click on$grn ENTER$rset"
+echo -e "$yellow  To terminate the process click$red 'Y' $yellow or to continue click on$green ENTER$rset"
 read choice
 if [ $choice = 'Y' ] ; then
-echo -e "$red '  Are you sure? Press$grn ENTER$red to exit$rset"
+echo -e "$red '  Are you sure? Press$green ENTER$red to exit$rset"
 read na
 cd $HOME/Lazy-Termux
 bash LazyTermux.sh
@@ -135,9 +135,9 @@ else
 bash Deletescript.sh
 echo " "
 echo " "
-echo -e "$grn ＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜$rset"
+echo -e "$green ＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞$yellow [EXIT]$green ＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜$rset"
 echo " "
-echo -e "$cyan  click$grn ENTER$cyan to go back into Lazy-Termux Tool menu$rset"
+echo -e "$cyan  click$green ENTER$cyan to go back into Lazy-Termux Tool menu$rset"
 echo " "
 read punch
 fi
