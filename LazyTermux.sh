@@ -28,7 +28,7 @@ echo -e "$cyaan
 
 echo " "
 
-echo -e "$green                          ▶ Coded by ◀️ $rset"
+echo -e "$green                           ▶ Coded by ◀️ $rset"
 echo -e "$yellow                $grn ˜”*°•.˜”*°• Pralhad •°*”˜.•°*”˜ $rset"
 echo -e "$green            ⫸$ylo Follow Me For More Interesting Scripts$red ⫷$rset"
 echo 
