@@ -19,7 +19,7 @@ white='\033[1;97m'
 echo ""
 echo ""
 echo ""
-echo -e "$blue
+echo -e "$red
    __     __   ____  _  _     ____  ____  ____  _  _  _  _  _  _ 
   (  )   / _\ (__  )( \/ )___(_  _)(  __)(  _ \( \/ )/ )( \( \/ )
   / (_/\/    \ / _/  )  /(___) )(   ) _)  )   // \/ \) \/ ( )  ( 
@@ -30,13 +30,13 @@ echo " "
 
 echo -e "$green                           ▶ Coded by ◀️ $rset"
 echo -e "$yellow                $grn ˜”*°•.˜”*°• Pralhad •°*”˜.•°*”˜ $rset"
-echo -e "$green            ⫸$ylo Follow Me For More Interesting Scripts$red ⫷$rset"
+echo -e "$red            ⫸$yellow Follow Me For More Interesting Scripts$red ⫷$rset"
 echo 
 # Functions
 echo -e "$red                       [Enjoy With Me...]$rset"
 echo " "
 echo " "
-echo -e "$grn             ＞＞＞＞＞＞＞＞$yellow [Options]$green ＜＜＜＜＜＜＜＜$rset"
+echo -e "$green             ＞＞＞＞＞＞＞＞$yellow [Options]$green ＜＜＜＜＜＜＜＜$rset"
 echo " "
 echo " "
 echo -e "$red                        ➡$yellow [1️⃣] Install Packages"
