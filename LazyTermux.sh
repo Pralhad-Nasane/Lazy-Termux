@@ -133,11 +133,12 @@ bash LazyTermux.sh
 else
 bash Deletescript.sh
 echo " "
-echo " ";;
+echo " "
 read punch
 fi
-cd $HOME/Lazy-Termux
-bash Lazy-Termux.sh ;;
+cd 
+ls
+clear ;;
 
 4)
 sleep 2.0
