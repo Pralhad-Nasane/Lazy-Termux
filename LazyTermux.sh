@@ -71,7 +71,7 @@ else
 bash Packages.sh
 echo " "
 echo " "
-echo -e "$green ＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜＜＜$rset"
+echo -e "$green ＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜$rset"
 echo " "
 echo -e "$white  click$green ENTER$cyan to go back into Lazy-Termux menu$rset"
 echo " "
@@ -103,7 +103,7 @@ else
 bash updatescript.sh
 echo " "
 echo " "
-echo -e "$green ＞＞＞＞＞＞＞＞$yellow [EXIT]$green ＜＜＜＜＜＜＜＜＜＜＜$rset"
+echo -e "$green ＞＞＞＞＞＞＞＞$yellow [EXIT]$green ＜＜＜＜＜＜＜＜$rset"
 echo " "
 echo -e "$cyan   click ENTER to go back into Lazy-Termux menu$rset"
 echo " "
