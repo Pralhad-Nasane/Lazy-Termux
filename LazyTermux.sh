@@ -144,9 +144,6 @@ clear ;;
 sleep 2.0
 clear
 echo " "
-cd
-ls
-clear
 echo " "
 echo -e "$yellow
 
