@@ -1,5 +1,5 @@
 
-<a href="https://ibb.co/tLC3WnV"><img src="https://i.ibb.co/NTY7Hfc/20200522-103130.jpg" align="center" width="100%" height="75%" alt="20200522-103130" border="0"></a>
+<a href="https://ibb.co/g6mLt90"><img src="https://i.ibb.co/wYBFpgn/20200627-210725.jpg" align="center" width="100%" height="75%" alt="20200522-103130" border="0"></a>
 <b>
 </b>
 
@@ -8,6 +8,7 @@
 <img src="https://img.shields.io/badge/Language-BashScript-brightgreen.svg?style=plastic">
 <img src="https://img.shields.io/badge/Termux-✔-brightgreen.svg?style=plastic">
 <img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=plastic">
+<img src="https://img.shields.io/badge/Version-1.1-brightgreen.svg?style=plastic">
 </p>
 <b>
 
