@@ -91,6 +91,12 @@ echo ""
 pkg install nano
 echo ""
 echo ""
+echo -e "$green [----------------Installing COWSAY---------------]"
+echo ""
+echo ""
+pkg install cowsay
+echo ""
+echo ""
 echo -e "$cyan [----------------Installing TOR----------------]"
 echo ""
 echo ""
