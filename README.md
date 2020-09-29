@@ -75,11 +75,4 @@ Enter a Number for a specific output:
 + **File an issue** - If you found a bug 🐞
 + **Send a pull request** - If you want to contribute 🛂
 
-# Support Me By Contributing :-
-
-github : @Pralhad-Nasane
-
-### Need Any Help :
-+ ##### Message Me on Twitter OR Instagram 📨
-
 ## Follow Me For More Tools... 😍
